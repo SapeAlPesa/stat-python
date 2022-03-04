@@ -1,0 +1,8 @@
+name: stat-python
+dependencies:
+
+  - matplotlib
+  - pandas
+  - numpy
+  - statsmodels
+  - scipy
